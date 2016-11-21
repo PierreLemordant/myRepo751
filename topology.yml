@@ -11,7 +11,7 @@ imports:
 topology_template:
   node_templates:
     Compute_2:
-    description: yoloyolo
+      description: yoloyolo
       type: tosca.nodes.Compute
       capabilities:
         endpoint:
